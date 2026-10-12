@@ -12,18 +12,15 @@ images/Kilauea_Febuary_26_2019.png
 
 *Interactive version, live as of October 2026: https://storymaps.arcgis.com/stories/bedb235a1d6a4e9c8b3bf4dcd29f541e*
 
-**Question:** [What geographic question does this map answer?]
+**Question:** What was the full extent of the impact of the Kilauea volcanic eruption in 2018?
 
-**Data:** [Dataset name, who published it, what year, where you got it.]
+**Data:** The data comes from Landsat-8 image courtesy of the U.S. Geological Survey; Kilauea 2018 Lava Flow Extents courtesy of ESRI: Learn ArcGIS
 
-**Method:** [Two or three sentences on what you actually did. Name the
-tools. Someone should be able to follow this.]
+**Method:** The method of analysis for this project was to overlay remotely sensed multispectral imagery and compare the before, during, and after of the island.
 
-**A design choice I made and why:** [One specific decision. Classification
-method, color scheme, projection, what you labeled, what you left out.]
+**A design choice I made and why:** One design choice I made when presenting the findings was to have a dark background with light text. I feel this better conveys the seriousness of our topic.
 
-**A limitation of this map:** [What this map cannot tell the reader.
-Be honest. Every map has one.]
+**A limitation of this map:** I wish we could see the housing in the affected area more clearly. It would have added another dimension to the scale of the eruption and its impact.
 
 ## [Map 2 title]
 ![Short description of the map](images/yourotherfile.png)
