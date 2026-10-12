@@ -7,8 +7,8 @@ Hello! I am studying Data Science at Riverside City College. I want to learn how
 ## 2018 Kilauea Volcanic Eruption
 This project was to examine the difference in the land environment before, during and after the 2018 Kilauea Volcanic Eruption
 
-(images/Kilauea_August_2_2018.png)
-(images/Kilauea_Febuary_26_2019.png)
+![August 2nd 2018](images/Kilauea_August_2_2018.png)
+![Febuary 26 2019](images/Kilauea_Febuary_26_2019.png)
 
 *Interactive version, live as of October 2026: https://storymaps.arcgis.com/stories/bedb235a1d6a4e9c8b3bf4dcd29f541e*
 
